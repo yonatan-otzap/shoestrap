@@ -1,1 +1,9 @@
-shoestrap.css
+.col-1 {	
+	float: left;
+	width: 8.33333;
+}
+
+.col-2 {
+	
+	width: 20%;
+}
